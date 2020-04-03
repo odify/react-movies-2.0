@@ -1,0 +1,10 @@
+div{
+    text-align: center;
+    background-color: #3dd7ac;
+}
+section{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    background-color: rgb(9, 14, 45);
+    width: 100%;
+}
